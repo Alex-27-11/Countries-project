@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alex-27-11/Countries-project/static/css/main.e937bdad.css",
+    "main.js": "/Alex-27-11/Countries-project/static/js/main.121a39a0.js",
+    "index.html": "/Alex-27-11/Countries-project/index.html",
+    "main.e937bdad.css.map": "/Alex-27-11/Countries-project/static/css/main.e937bdad.css.map",
+    "main.121a39a0.js.map": "/Alex-27-11/Countries-project/static/js/main.121a39a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e937bdad.css",
+    "static/js/main.121a39a0.js"
+  ]
+}
