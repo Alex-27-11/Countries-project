@@ -2,7 +2,7 @@
 	"name": "4-tren-styled-components",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://github.com/Alex-27-11/Countries-project",
+	"homepage": "https://Alex-27-11.github.io/Countries-project",
 	"dependencies": {
 		"@reduxjs/toolkit": "^1.9.0",
 		"@testing-library/jest-dom": "^5.16.5",
